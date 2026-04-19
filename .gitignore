@@ -1,0 +1,18 @@
+# Arduino specific ignores
+*.bin
+*.hex
+*.elf
+*.o
+*.d
+*.a
+*.lst
+*.map
+*.pde
+*.pp
+# IDE specific
+.vscode/
+.idea/
+bin/
+obj/
+# Local configuration files
+.local
